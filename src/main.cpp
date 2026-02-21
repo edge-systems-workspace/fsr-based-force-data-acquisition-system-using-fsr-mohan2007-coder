@@ -49,7 +49,6 @@ void loop() {
         Serial.println("No Pressure");
     }
 
-
     Serial.println("-----------------------------");
 
     // TODO 9:
