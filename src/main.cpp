@@ -12,7 +12,7 @@
 const int FSR_PIN = A0;
 
 // TODO 2:
-// Create variable to store sensor reading
+// Create variable to store sensor readin
 int fsrReading = 0;
 
 void setup() {
@@ -48,6 +48,7 @@ void loop() {
     else {
         Serial.println("No Pressure");
     }
+
 
     Serial.println("-----------------------------");
 
