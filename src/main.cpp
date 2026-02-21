@@ -47,6 +47,7 @@ void loop() {
     }
     else {
         Serial.println("No Pressure");
+
     }
 
     Serial.println("-----------------------------");
